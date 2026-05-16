@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Operation Log"
-updated: 2026-04-08
+updated: 2026-05-16
 tags:
   - meta
   - log
@@ -22,6 +22,12 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 Append-only. New entries go at the TOP. Never edit past entries.
 
 Entry format: `## [YYYY-MM-DD] operation | Title`
+
+## [2026-05-16] scaffold | Bootstrap structural gaps
+- Created `.raw/{articles,transcripts,screenshots,data,assets}/` subfolders per WIKI.md §1.
+- Created `_attachments/{images,pdfs}/` for note-referenced binaries.
+- Created `wiki/domains/_index.md` and `wiki/domains/` folder; linked from [[index]].
+- Pre-existing scaffold (overview, hot, log, sources/, entities/, concepts/, comparisons/, questions/, meta/, _templates/, vault-colors.css) was already in place from the upstream `AgriciDaniel/claude-obsidian` clone.
 
 Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 

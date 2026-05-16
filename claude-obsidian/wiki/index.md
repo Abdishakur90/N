@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-04-07
+updated: 2026-05-16
 tags:
   - meta
   - index
@@ -15,6 +15,7 @@ related:
   - "[[concepts/_index]]"
   - "[[entities/_index]]"
   - "[[sources/_index]]"
+  - "[[domains/_index]]"
   - "[[LLM Wiki Pattern]]"
   - "[[Hot Cache]]"
   - "[[Compounding Knowledge]]"
@@ -92,4 +93,4 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Domains
 
-<!-- Add domain entries here after scaffold -->
+See [[domains/_index]] for the full domains index. Add domain pages under `wiki/domains/` as the vault grows.
