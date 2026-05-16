@@ -12,6 +12,8 @@ tags:
   - growth
 related:
   - "[[index]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Community CTA Footer Rollout

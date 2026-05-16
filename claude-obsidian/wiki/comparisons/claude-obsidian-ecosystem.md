@@ -15,6 +15,8 @@ related:
   - "[[Andrej Karpathy]]"
 sources:
   - "[[claude-obsidian-ecosystem-research]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Claude + Obsidian Ecosystem: Feature Matrix

@@ -13,6 +13,8 @@ related:
   - "[[Claude SEO]]"
   - "[[Pro Hub Challenge]]"
   - "[[Search Experience Optimization]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Semantic Topic Clustering

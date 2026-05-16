@@ -16,6 +16,8 @@ related:
   - "[[Compounding Knowledge]]"
   - "[[entities/_index]]"
 sources:
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Andrej Karpathy

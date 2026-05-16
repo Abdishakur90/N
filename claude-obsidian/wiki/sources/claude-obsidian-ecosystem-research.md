@@ -13,6 +13,8 @@ related:
   - "[[cherry-picks]]"
   - "[[LLM Wiki Pattern]]"
 raw_file: ".raw/claude-obsidian-ecosystem-research.md"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Source: Claude + Obsidian Ecosystem Research

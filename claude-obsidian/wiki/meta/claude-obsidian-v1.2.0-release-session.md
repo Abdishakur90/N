@@ -14,6 +14,8 @@ related:
   - "[[index]]"
   - "[[overview]]"
   - "[[LLM Wiki Pattern]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # claude-obsidian v1.2.0 Release Session

@@ -12,6 +12,8 @@ related:
   - "[[LLM Wiki Pattern]]"
   - "[[Wiki vs RAG]]"
   - "[[Wiki Map]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Getting Started with claude-obsidian

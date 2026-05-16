@@ -19,6 +19,8 @@ related:
   - "[[Hot Cache]]"
   - "[[Compounding Knowledge]]"
   - "[[Andrej Karpathy]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Wiki Index

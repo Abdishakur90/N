@@ -12,6 +12,8 @@ related:
   - "[[Andrej Karpathy]]"
   - "[[hot]]"
   - "[[LLM Wiki Pattern]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Entities Index

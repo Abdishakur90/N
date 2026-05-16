@@ -12,6 +12,8 @@ related:
   - "[[log]]"
   - "[[concepts/_index]]"
   - "[[Compounding Knowledge]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Wiki Dashboard

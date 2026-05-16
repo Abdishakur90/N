@@ -15,6 +15,8 @@ related:
   - "[[Andrej Karpathy]]"
 sources:
   - "[[claude-obsidian-ecosystem-research]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # rvk7895/llm-knowledge-bases

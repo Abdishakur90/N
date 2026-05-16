@@ -12,6 +12,8 @@ status: evergreen
 related:
   - "[[Claude SEO]]"
   - "[[Pro Hub Challenge]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # SEO Drift Monitoring

@@ -17,6 +17,8 @@ related:
   - "[[LLM Wiki Pattern]]"
 sources:
   - "[[claude-obsidian-ecosystem-research]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # claude-obsidian v1.4 Release Session

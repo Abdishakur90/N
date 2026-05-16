@@ -17,6 +17,8 @@ related:
   - "[[Search Experience Optimization]]"
   - "[[SEO Drift Monitoring]]"
   - "[[E-commerce SEO]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Claude SEO v1.9.0 — Pro Hub Challenge Integration

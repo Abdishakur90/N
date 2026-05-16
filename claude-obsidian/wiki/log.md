@@ -11,6 +11,8 @@ related:
   - "[[hot]]"
   - "[[overview]]"
   - "[[sources/_index]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Operation Log

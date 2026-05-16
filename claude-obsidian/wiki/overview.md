@@ -14,6 +14,8 @@ related:
   - "[[dashboard]]"
   - "[[LLM Wiki Pattern]]"
 sources:
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Wiki Overview

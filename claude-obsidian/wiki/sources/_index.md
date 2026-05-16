@@ -12,6 +12,8 @@ related:
   - "[[log]]"
   - "[[entities/_index]]"
   - "[[Andrej Karpathy]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Sources Index

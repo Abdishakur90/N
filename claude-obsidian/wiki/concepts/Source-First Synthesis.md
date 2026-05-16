@@ -14,6 +14,8 @@ related:
   - "[[Compounding Knowledge]]"
   - "[[Persistent Wiki Artifact]]"
   - "[[Query-Time Retrieval]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Source-First Synthesis

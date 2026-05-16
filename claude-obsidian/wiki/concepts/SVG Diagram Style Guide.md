@@ -13,6 +13,8 @@ related:
   - "[[index]]"
 sources:
   - "claude-ads/assets/diagrams/ (17 SVGs, v1.5.0)"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # SVG Diagram Style Guide

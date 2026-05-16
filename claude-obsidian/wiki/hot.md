@@ -12,6 +12,8 @@ related:
   - "[[Wiki Map]]"
   - "[[getting-started]]"
   - "[[DragonScale Memory]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Recent Context

@@ -13,6 +13,8 @@ related:
   - "[[claude-obsidian-v1.2.0-release-session]]"
   - "[[getting-started]]"
   - "[[index]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Full Audit, System Setup & Plugin Installation

@@ -17,6 +17,8 @@ related:
   - "[[Rankenstein]]"
   - "[[Karpathy LLM Wiki Pattern]]"
 decision_date: 2026-04-10
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 ## What Was Done

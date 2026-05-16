@@ -21,6 +21,8 @@ related:
   - "[[hot]]"
   - "[[concepts/_index]]"
 sources:
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Hot Cache

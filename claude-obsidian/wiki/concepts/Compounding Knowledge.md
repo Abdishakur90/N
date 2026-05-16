@@ -18,6 +18,8 @@ related:
   - "[[Andrej Karpathy]]"
   - "[[concepts/_index]]"
 sources:
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Compounding Knowledge

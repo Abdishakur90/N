@@ -23,6 +23,8 @@ related:
   - "[[Hot Cache]]"
   - "[[concepts/_index]]"
 sources:
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # DragonScale Memory

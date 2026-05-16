@@ -14,6 +14,8 @@ related:
   - "[[LLM Wiki Pattern]]"
   - "[[Persistent Wiki Artifact]]"
   - "[[Source-First Synthesis]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Query-Time Retrieval

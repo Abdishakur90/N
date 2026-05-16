@@ -11,6 +11,8 @@ related:
   - "[[DragonScale Memory]]"
   - "[[log]]"
   - "[[hot]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Boundary Frontier Snapshot (2026-04-24)

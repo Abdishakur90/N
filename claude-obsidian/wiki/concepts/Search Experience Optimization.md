@@ -13,6 +13,8 @@ related:
   - "[[Claude SEO]]"
   - "[[Pro Hub Challenge]]"
   - "[[Semantic Topic Clustering]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Search Experience Optimization (SXO)

@@ -18,6 +18,8 @@ related:
   - "[[E-commerce SEO]]"
   - "[[2026-04-15-slides-and-release-session]]"
   - "[[2026-04-15-release-report-session]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Claude SEO

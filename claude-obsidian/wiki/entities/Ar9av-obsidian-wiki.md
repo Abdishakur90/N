@@ -14,6 +14,8 @@ related:
   - "[[claude-obsidian-ecosystem]]"
 sources:
   - "[[claude-obsidian-ecosystem-research]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Ar9av/obsidian-wiki

@@ -15,6 +15,8 @@ related:
   - "[[2026-04-14-claude-seo-v190-session]]"
   - "[[Semantic Topic Clustering]]"
   - "[[Search Experience Optimization]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Pro Hub Challenge

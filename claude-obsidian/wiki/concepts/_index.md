@@ -18,6 +18,8 @@ related:
   - "[[LLM Wiki Pattern]]"
   - "[[Hot Cache]]"
   - "[[Compounding Knowledge]]"
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Concepts Index

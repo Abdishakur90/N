@@ -24,6 +24,8 @@ related:
   - "[[index]]"
   - "[[How does the LLM Wiki pattern work]]"
 sources: []
+banner: "_attachments/images/your-image.png"
+banner_icon: "🧠"
 ---
 
 # Wiki vs RAG
