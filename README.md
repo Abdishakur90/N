@@ -31,6 +31,21 @@ Both registries are configured in `components.json`. In a sandbox where Node's
 `fetch` doesn't pick up the HTTPS proxy, run the BoardUI CLI with
 `NODE_USE_ENV_PROXY=1`.
 
+### MCP servers
+
+`.mcp.json` registers two MCP servers. Claude Code loads them when you open the
+repo and asks you once to approve them.
+
+| Server | What it can do |
+| --- | --- |
+| `shadcn` | Browse, search and view items in every registry in `components.json` (shadcn, `@aceternity`, `@obsidian`), and give the add command for them |
+| `boardui` | List BoardUI components, show their source and usage examples, and install them |
+
+You can then ask in chat, for example "find an Aceternity card with a hover
+effect" or "which BoardUI components handle dates?". `/mcp` in Claude Code
+shows their status. `NODE_USE_ENV_PROXY=1` on the BoardUI server is only needed
+behind an HTTPS proxy and is harmless elsewhere.
+
 ### How the styles fit together
 
 `src/app/globals.css` is the only Tailwind entry point. It imports shadcn's
